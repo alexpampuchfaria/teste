@@ -1,0 +1,137 @@
+
+header {
+
+   background-color: rgb(253, 227, 160);
+   padding: 200px 0;
+}
+body {
+    background-color: azure;
+
+}
+nav a {
+    
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 29px;
+    text-decoration: none;
+    text-align: center;
+    
+}
+nav li{
+    margin: 75px; 
+    display: inline;
+    font-size: 35px;
+    text-align: center;
+}
+
+h1 {
+    text-align:center;
+    font-size: 60px;
+
+}
+
+.caixa {
+    position:relative;
+    width: 940px;
+    margin: 0 auto;
+
+}
+
+ nav {       
+    position:absolute;           
+    top: 0 auto;                                      
+    right: 0;                     
+}
+.logo {
+    width: 240px;
+    margin: 10 0 0 150px;
+}
+
+.produtos {       
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+    font-size: 20px;
+
+}
+
+.produtos li {
+    display: inline-block;
+    text-align: center; 
+    width: 30%;
+    vertical-align:top ;
+    margin: 0 1%;
+    padding:30px 15px;
+    box-sizing:  border-box;
+    border: 2px solid black;
+    border-radius: 4px;
+    
+}
+.produtos h2 {
+    font-size: 22px;
+    font-weight: bold; 
+}
+.protudo-descrição {
+    font-size: 18px;
+}
+.produto-preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+nav a:hover {
+    color:rgb(65, 179, 255);
+
+}
+.produtos li:hover {
+    color:rgba(255, 0, 0, 0.534);   
+
+}
+.produtos li:active {
+    border-color: darkgreen;
+
+}
+.produtos li:hover h2 {
+    font-size: 34px;
+
+}
+footer {
+    text-align: center;
+    background-color: rgb(253, 227, 160);
+    padding: 40px 0;
+
+}
+.copyright{
+    color:rgb(255, 0, 0);
+    font-size: 13px;
+    margin: 20px;
+
+}
+.img footer{
+    width:150px;
+}
+main{
+    width: 940px;
+    margin: 0 auto;
+
+}
+form{
+    margin: 40px 0 0;
+    font-size: 20px;
+    margin:0 0 10px;
+}
+form label{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+form input{
+    display: block;
+    margin:  0 0 20px;
+    padding: 10px 30px;
+    width: 50%;
+
+}
+
