@@ -1,0 +1,86 @@
+
+body {
+    background-color:azure;
+}
+
+h1 {
+    text-align: center;
+     color: rgb(0, 0, 0);
+}
+h2 {
+
+    text-align: center;
+   color:rgb(0, 181, 253);
+}
+p{
+    color:blueviolet;
+    text-align: center;
+}
+main {
+    
+    background-color: rgb(253, 227, 160);
+
+}
+b{
+
+    color: rgb(54, 54, 54);
+}
+#jojo {
+
+    width: 100%;
+    
+}
+a {
+    font-weight: 900;
+    color: rgb(37, 36, 36);
+    
+}
+.a:hover{
+    color: blue;
+}
+
+.tutu{
+    background-color: rgb(253, 227, 160);
+}
+.imagens {       
+    width: 940px;
+    margin: 0 auto;
+    padding: 20px 0;
+    font-size: 20px;
+
+}
+.tata{
+
+}
+.imagens li {
+    display: inline-block;
+    text-align: center; 
+    width: 30%;
+    vertical-align:top ;
+    margin: 0 1%;
+    padding:25px 15px;
+    box-sizing:  border-box;
+    border: 2px solid black;
+    border-radius: 3px;
+    
+}
+.tata{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+    font-size: 20px;
+
+}
+
+.tata li {
+    display: inline-block;
+    text-align: center; 
+    width: 30%;
+    vertical-align:top ;
+    margin: 0 1%;
+    padding:30px 15px;
+    box-sizing:  border-box;
+    border: 2px solid black;
+    border-radius: 4px;
+    
+}
